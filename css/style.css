@@ -672,7 +672,7 @@ h2.widgettitle {
   border-radius: 5px;
   box-shadow: -2px 5px 16px 0 rgba(7, 13, 20, 0.08);
   padding-left: 40px !important;
-  background-image: url("../img/tick.png");
+  background-image: url("../images/tick.png");
   background-position: 15px 2rem;
   background-repeat: no-repeat; }
   .feature-block .title {
@@ -958,7 +958,7 @@ h2.widgettitle {
       letter-spacing: 0.1px;
       color: rgba(255, 255, 255, 0.7) !important;
       padding-left: 40px;
-      background-image: url("../img/shield.png");
+      background-image: url("../images/shield.png");
       background-position: 10px 3px;
       background-repeat: no-repeat; }
     #home .dark-section a.btn {
